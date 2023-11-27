@@ -68,9 +68,9 @@ switch(myDay){
         coffee = {
             pic : "images/mocha.jpg",
             alt :  "A picture of a mocha latte",
-            desc : `I love a mocha latte`,
+            desc : `Our mocha latte's are one of the best in the state!`,
             day :  "Sunday",
-            color : "burlywood",
+            color : "bisque",
             name : "Mocha Latte"
         };
     break;
@@ -80,7 +80,7 @@ switch(myDay){
             coffee = {
             pic : "images/pumpkin-spice-latte.jpg",
             alt :  "A picture of a pumpkin spice latte",
-            desc : `I love a pumpkin spice latte`,
+            desc : `There's no better way to start your day, then with a pumpkin spice latte!`,
             day :  "Monday",
             color : "darkorange",
             name : "Pumpkin Spice Latte"
@@ -94,7 +94,7 @@ switch(myDay){
             alt :  "A picture of bubble tea",
             desc : `I like me some bubble tea`,
             day :  "Tuesday",
-            color : "burlywood",
+            color : "dimgray",
             name : "Bubble Tea"
         };
     break;
@@ -104,7 +104,7 @@ switch(myDay){
         coffee = {
             pic : "images/caramel-latte.jpg",
             alt :  "A picture of a caramel latte",
-            desc : `I love a caramel latte`,
+            desc : `Our caramel latte is rich in flavor and absolutely delicious!`,
             day :  "Wednesday",
             color : "burlywood",
             name : "Caramel Latte"
@@ -116,7 +116,7 @@ switch(myDay){
         coffee = {
             pic : "images/cold-brew.jpg",
             alt :  "A picture of a cold brew",
-            desc : `I love a cold brew`,
+            desc : `A cold brew gives you the energy and flavor to start the day off right!`,
             day :  "Thursday",
             color : "black",
             name : "Cold Brew"
@@ -128,9 +128,9 @@ switch(myDay){
         coffee = {
             pic : "images/drip.jpg",
             alt :  "A picture of drip coffee",
-            desc : `I love drip coffee`,
+            desc : `Our drip coffee is one of the best in the country!`,
             day :  "Friday",
-            color : "brown",
+            color : "saddlebrown",
             name : "Drip Coffee"
         };
     break;
@@ -140,7 +140,7 @@ switch(myDay){
         coffee = {
             pic : "images/frappaccino.jpg",
             alt :  "A picture of a frappaccino",
-            desc : `I love a frappaccino`,
+            desc : `Our Frappicino's are blended to perfection!`,
             day :  "Saturday",
             color : "darkgreen",
             name : "Frappaccino"
